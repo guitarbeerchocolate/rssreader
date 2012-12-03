@@ -1,5 +1,5 @@
 <?php
-require_once 'rss.class.php';
+require_once 'classes/autoload.php';
 
 $addr1 = 'http://feeds.bbci.co.uk/sport/0/football/rss.xml';
 $addr2 = 'http://feeds.howtogeek.com/HowToGeek';
